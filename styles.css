@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --roxo: #993399;
+    --roxo:#993399;
  }
 
 body {
@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/44450.jp.jpg');
+    background-image: url('img/.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
